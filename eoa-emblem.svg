@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title id="title">EOA orbital emblem</title>
+  <defs>
+    <linearGradient id="g" x1="12" y1="12" x2="84" y2="84" gradientUnits="userSpaceOnUse"><stop stop-color="#b7a1ff"/><stop offset=".52" stop-color="#7b61e8"/><stop offset="1" stop-color="#55d9e8"/></linearGradient>
+    <radialGradient id="s"><stop stop-color="#fff"/><stop offset=".35" stop-color="#d9ceff"/><stop offset="1" stop-color="#8b70f0"/></radialGradient>
+  </defs>
+  <circle cx="48" cy="48" r="43" fill="#111020" stroke="url(#g)" stroke-width="2.5"/>
+  <ellipse cx="48" cy="48" rx="34" ry="13" fill="none" stroke="url(#g)" stroke-width="3" transform="rotate(-32 48 48)"/>
+  <ellipse cx="48" cy="48" rx="34" ry="13" fill="none" stroke="#9e8bff" stroke-opacity=".65" stroke-width="1.5" transform="rotate(48 48 48)"/>
+  <circle cx="48" cy="48" r="10" fill="url(#s)"/>
+  <circle cx="76" cy="30" r="4.5" fill="#64dbea" stroke="#111020" stroke-width="2"/>
+  <path d="M48 17v7M48 72v7M17 48h7M72 48h7" stroke="#d8d0ff" stroke-width="2" stroke-linecap="round"/>
+</svg>
